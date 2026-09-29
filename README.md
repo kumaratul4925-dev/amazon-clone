@@ -58,7 +58,7 @@ npm run dev
 
 Open the Vite URL shown in the terminal, normally `http://localhost:5173`.
 
-## Resume description
+##  description
 
 **Full-Stack E-Commerce Web Application** — Developed a responsive e-commerce platform using React.js, Node.js, Express.js, and MySQL. Implemented product browsing, search, authentication, shopping cart, checkout, order management, REST APIs, and relational database integration.
 
