@@ -62,13 +62,4 @@ Open the Vite URL shown in the terminal, normally `http://localhost:5173`.
 
 **Full-Stack E-Commerce Web Application** — Developed a responsive e-commerce platform using React.js, Node.js, Express.js, and MySQL. Implemented product browsing, search, authentication, shopping cart, checkout, order management, REST APIs, and relational database integration.
 
-## Interview talking points
-- Component-based React architecture
-- RESTful API design
-- MySQL relationships and foreign keys
-- Password hashing with bcrypt
-- JWT-based authentication middleware
-- Transaction-based order creation
-- Responsive UI and reusable components
 
-> Note: This is a portfolio/demo Amazon-style clone and is not affiliated with Amazon.
